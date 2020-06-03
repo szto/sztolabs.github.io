@@ -3,7 +3,7 @@ module.exports = {
   description: `서버리스 프로그래머`,
   author: `szto`,
   introduction: `기술이 이롭게 하는 세상`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://sztolabs.netlify.com`, // Your blog site url
   social: {
     twitter: `sztolabs`, // Your Twitter account
     github: `szto`, // Your GitHub account
@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`, `it`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'szto/szto.github.io', // Your repository for archive comment
+    utterances: 'szto/sztolabs.github.io', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post

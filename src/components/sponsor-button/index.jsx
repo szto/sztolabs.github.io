@@ -12,9 +12,9 @@ export const SponsorButton = ({ sponsorId }) => (
     >
       <img
         src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg"
-        alt="Buy me a coffee"
+        alt="글쓴이에게 커피 한잔 쏘기"
       />
-      <span>Buy me a coffee</span>
+      <span>글쓴이에게 커피 한잔 쏘기</span>
     </a>
   </div>
 )
