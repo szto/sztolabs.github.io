@@ -1,13 +1,13 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
-lang: 'en'
+date: 2020-06-03 16:21:13
+lang: 'kr'
 ---
 
-# Your name
+# About me
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+환영합니다. 끊임없이 발전하고 도전하는 개발자입니다.
 
 </div>
