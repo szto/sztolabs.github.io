@@ -1,7 +1,7 @@
 ---
 title: 'about'
 date: 2020-06-03 16:21:13
-lang: 'kr'
+lang: 'en'
 ---
 
 # About me
