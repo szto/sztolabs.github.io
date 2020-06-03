@@ -24,7 +24,7 @@ module.exports = {
     buyMeACoffeeId: 'szto',
   },
   share: {
-    facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
+    facebookAppId: '955910354859257', // Add facebookAppId for using facebook share feature v3.2
   },
   ga: 'UA-168400152-1', // Add your google analytics tranking ID
 }
