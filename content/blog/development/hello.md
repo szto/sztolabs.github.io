@@ -2,6 +2,7 @@
 title: '환영합니다.'
 date: 2020-6-3 10:15:13
 category: '개발'
+thumbnail: './images/hello.png'
 draft: false
 ---
 
