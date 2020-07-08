@@ -1,7 +1,7 @@
 ---
 title: 'mac finder에서 vscode를 실행하는 서비스 혹은 빠른 동작 만들기'
 date: 2020-7-7 19:00:00
-category: 'development'
+category: 'tip'
 draft: false
 ---
 
