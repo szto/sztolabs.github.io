@@ -48,5 +48,5 @@ print(timeit.timeit(lambda :run_sleedp(2), number=2))
 
 ## 참고자료
 
-    - [Medium - Ten Python development skills - Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
-    - [9.7. itertools — Functions creating iterators for efficient looping — Python 2.7.18 documentation](https://docs.python.org/2/library/itertools.html)o
+- [Medium - Ten Python development skills - Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
+- [9.7. itertools — Functions creating iterators for efficient looping — Python 2.7.18 documentation](https://docs.python.org/2/library/itertools.html)o
