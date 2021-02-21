@@ -2,7 +2,7 @@
 title: '파이썬팁-product 와 timeit'
 date: 2020-7-09 19:00:00
 category: '파이썬'
-draft: false
+draft: true
 ---
 
 ## 쉽게 다중 반복문을 만들 수 있도록 도와주는 product

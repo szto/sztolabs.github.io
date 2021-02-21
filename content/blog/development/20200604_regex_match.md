@@ -2,7 +2,7 @@
 title: 'python 정규식(regex) 초보자가 `김*한 == 김진한` 판별하기'
 date: 2020-6-4 09:54:00
 category: '정규식'
-draft: false
+draft: true
 ---
 
 ### 서론
